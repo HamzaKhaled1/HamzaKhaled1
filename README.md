@@ -1,34 +1,58 @@
 # 👋 Hi, I’m Hamza Khaled
 
-### 🚀 Full Stack Web Developer
+### 🚀 Full Stack Web & Mobile Application Developer | MERN Stack | Flutter
 
-I am passionate about crafting seamless and engaging web experiences. With a strong background in front-end and back-end development, I specialize in building responsive, dynamic, and visually appealing websites. I love diving into new technologies and applying them to real-world projects.
+I’m a *Computer Engineering student* and a *Full Stack Web & Mobile Application Developer* with a strong focus on building *scalable, high-performance, and user-centric applications*.  
+I specialize in delivering *clean architecture, **modern UI, and **efficient back-end systems* across both *web and mobile platforms*.  
+Driven by impact, I turn ideas into reliable, production-ready solutions.
 
-### 💼 Skills & Technologies
+---
 
-- **Frontend**:  
-  - HTML5, CSS3, JavaScript (ES6+), TypeScript  
-  - React, Tailwind CSS, Bootstrap  
-  - Responsive Web Design & Mobile-First Development
+## 🧠 Technical Expertise
 
-- **Backend & Database**:  
-  - MongoDB, Express.js, Node.js  
-  - RESTful APIs and CRUD operations
+### 🌐 Web Development (Frontend)
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React (Hooks, Component Architecture)  
+- Tailwind CSS, Bootstrap  
+- Responsive, Mobile-First & Accessible Design  
 
-- **Other Technologies**:  
-  - Git, GitHub for version control  
-  - Java for object-oriented programming and logic development  
-  - Vite for optimized development builds
+### 📱 Mobile Application Development
+- Flutter (Dart) – Cross-platform development  
+- Clean UI implementation & reusable widget design  
+- State management fundamentals & app performance optimization  
 
-### 🌐 What I Do
-- Build **responsive websites** and ensure optimal performance on various devices.
-- Develop **dynamic user interfaces** using **React** and **JavaScript**.
-- Design and implement **back-end systems** with **MongoDB**.
-- Follow **modern web development standards** (HTML5, CSS3).
-- Utilize **Tailwind CSS** for clean, maintainable styles.
-- Incorporate **Java** and **TypeScript** to create scalable and high-performance applications.
+### ⚙️ Backend & Databases
+- Node.js, Express.js  
+- MongoDB  
+- RESTful API design & CRUD operations  
+- Secure data handling & API integration  
 
-### 🌟 My Development Focus
-- **Responsive & Accessible Design**: I prioritize creating accessible and mobile-friendly websites.
-- **Code Quality**: I emphasize writing clean, modular, and reusable code.
-- **Continuous Learning**: I am constantly learning new frameworks and languages to stay up-to-date in the fast-paced world of web development.
+### 🛠️ Tools & Engineering Practices
+- Git & GitHub (Version Control & Collaboration)  
+- Java (Object-Oriented Programming & logic building)  
+- Vite (Optimized development workflows)  
+- Modular architecture & scalable codebases  
+
+---
+
+## 💼 What I Build
+- *Production-ready web applications* with modern UI/UX  
+- *Cross-platform mobile apps* for Android & iOS  
+- *Scalable back-end systems* and RESTful APIs  
+- *Reusable components and clean code architectures*  
+- Solutions optimized for *performance, maintainability, and usability*
+
+---
+
+## 🎯 Professional Mindset
+- *Engineering-driven* – I focus on how systems scale and perform  
+- *Problem Solver* – strong analytical thinking with real-world application  
+- *Quality-Oriented* – clean, maintainable, and well-structured code  
+- *Self-Learner* – continuously improving across web & mobile technologies  
+- *Team Player* – effective communication in collaborative environments  
+
+---
+
+📫 *Let’s Connect*
+- GitHub: [Your GitHub Profile](https://github.com/HamzaKhaled1)
+- LinkedIn: [Your LinkedIn Profile]( https://eg.linkedin.com/in/hamza-khaled-076563314)
